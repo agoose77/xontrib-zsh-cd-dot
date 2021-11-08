@@ -6,4 +6,5 @@
 
 Cd using `...`, similar to ZSH
 
+![image](https://user-images.githubusercontent.com/1248413/140748788-5cedd54f-934b-412e-8587-1e36ab433199.png)
 
