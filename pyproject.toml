@@ -10,7 +10,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = ">=3.6"
-xonsh = "^0.10.0"
+xonsh = "*"
 
 [tool.poetry.dev-dependencies]
 
